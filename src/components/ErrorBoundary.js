@@ -21,5 +21,3 @@ class errorBoundry extends Component {
 }
 
 export default errorBoundry
-
-//test
